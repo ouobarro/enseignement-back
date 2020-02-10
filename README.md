@@ -1,2 +1,2 @@
-# enseignement-back
+# Enseignement-back
 Projet personnel pour monter en compétence sur spring-boot + maven + jpa + hibernate 
